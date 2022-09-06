@@ -1,6 +1,6 @@
-import NotificationButton from "./components/NotificationButton"
-import Header from "./components/Header"
-import SalesCard from "./components/SalesCard"
+import NotificationButton from "./components/NotificationButton";
+import Header from "./components/Header";
+import SalesCard from "./components/SalesCard";
 
 function App(): JSX.Element {
   return (
@@ -17,4 +17,4 @@ function App(): JSX.Element {
   )
 }
 
-export default App
+export default App;
